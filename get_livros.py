@@ -1,3 +1,6 @@
+"""
+Script para baixar livros de estatistica
+"""
 import requests
 from bs4 import BeautifulSoup
 
